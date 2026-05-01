@@ -90,3 +90,23 @@ function getFeatureLatLng(feature) {
   }
   return null;
 }
+function getFeatureLatLng(feature) {
+  const g = feature && feature.geometry;
+  if (!g || !g.type) return null;
+
+  if (g.type === 'Point' && Array.isArray(g.coordinates) && g.coordinates.length >= 2) {
+    console.log("RAW coordinates:", g.coordinates);
+
+    const lon = parseFloat(g.coordinates[0]);
+    const lat = parseFloat(g.coordinates[1]);
+
+    const ll = L.latLng(lat, lon);
+
+    console.log("PARSED lat/lon:", lat, lon);
+    console.log("LEAFLET latlng:", ll.lat, ll.lng);
+
+    return ll;
+  }
+
+  return null;
+}
