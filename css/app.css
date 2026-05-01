@@ -154,3 +154,20 @@ html, body { height: 100%; margin: 0; font-family: Arial, sans-serif; }
   .search-results { max-height: 18vh; }
   .layer-item, .list-item, .search-result-line { font-size: 12px; }
 }
+.map-switch-btn {
+  display: inline-block;
+  background: rgba(255,255,255,0.95);
+  border: 1px solid #bbb;
+  border-radius: 10px;
+  padding: 6px 14px;
+  font-size: 14px;
+  text-decoration: none;
+  color: #083c68;
+  font-weight: bold;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.15);
+  transition: background 0.2s;
+}
+
+.map-switch-btn:hover {
+  background: #f0f0f0;
+}
