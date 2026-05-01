@@ -43,8 +43,13 @@ async function loadGeoJsonLayer(filePath, layerLabel) {
 	  weight: 2,
 	  fillOpacity: 0.8
 	});
-    marker.bindPopup(`<div class="popup-wrap"><div class="popup-title">${escapeHtml(name)}</div><div class="popup-body">${descriptionHtml}</div></div>`, { maxWidth: 340, minWidth: 220 });
-
+marker.bindPopup(`
+  <div>
+    <b>${escapeHtml(name)}</b><br>
+    lat: ${latlng.lat}<br>
+    lng: ${latlng.lng}
+  </div>
+`);
     layerGroup.addLayer(marker);
     allBounds.push([latlng.lat, latlng.lng]);
     markerCount++;
