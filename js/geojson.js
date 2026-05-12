@@ -63,7 +63,8 @@ async function initMap() {
         if (item.visible) layerInfo.layer.addTo(map); totalMarkers += layerInfo.count; loadedLayers++; statusLines.push(`${item.label}: ${layerInfo.count} נקודות`);
       } else { statusLines.push(`${item.label}: שגיאה`); console.error(`Layer load failed: ${item.file}`, result.reason); }
     });
-    buildLayerList(); if (allBounds.length > 0) map.fitBounds(allBounds, { padding: [20, 20] });
+    buildLayerList(); 
+	fitIsraelView();
     setStatus(`נטענו ${loadedLayers} שכבות\nסה"כ ${totalMarkers} נקודות\n\n${statusLines.join('\n')}`);
   } catch (err) {
     console.error(err); setStatus('שגיאה כללית בטעינת השכבות'); alert('שגיאה בטעינת השכבות: ' + err.message);
