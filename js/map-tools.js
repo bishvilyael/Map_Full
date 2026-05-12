@@ -11,7 +11,7 @@
   }).addTo(map);
 
   // =========================
-  // Custom map info box
+  // Map info box
   // =========================
 
   const infoControl = L.control({ position: 'bottomleft' });
@@ -26,18 +26,11 @@
 
     const zoom = map.getZoom();
 
-    const center = map.getCenter();
-
-    const lat = center.lat.toFixed(5);
-    const lng = center.lng.toFixed(5);
-
     const scaleApprox = getApproxScale();
 
     this._div.innerHTML = `
       <div><b>Zoom:</b> ${zoom}</div>
       <div><b>Scale:</b> ~1:${scaleApprox.toLocaleString()}</div>
-      <div><b>Lat:</b> ${lat}</div>
-      <div><b>Lng:</b> ${lng}</div>
     `;
   };
 
@@ -62,7 +55,6 @@
       Math.cos(center.lat * Math.PI / 180) /
       Math.pow(2, zoom);
 
-    // approx screen dpi 96
     const scale = metersPerPixel * 96 * 39.37;
 
     return Math.round(scale / 100) * 100;
@@ -125,7 +117,7 @@
   }
 
   // =========================
-  // Distance measure tool
+  // Distance + coordinates tool
   // =========================
 
   let measureMode = false;
@@ -135,6 +127,8 @@
   let measureLine = null;
 
   let measureMarkers = [];
+
+  let measurePopup = null;
 
   const measureControl = L.control({ position: 'topright' });
 
@@ -164,9 +158,7 @@
       btn.style.background =
         measureMode ? '#d0ebff' : '';
 
-      if (!measureMode) {
-        clearMeasurement();
-      }
+      clearMeasurement();
     });
 
   }, 100);
@@ -180,6 +172,10 @@
 
   function addMeasurePoint(latlng) {
 
+    if (measurePoints.length >= 2) {
+      clearMeasurement();
+    }
+
     const marker = L.circleMarker(latlng, {
       radius: 6
     }).addTo(map);
@@ -188,13 +184,21 @@
 
     measurePoints.push(latlng);
 
-    if (measurePoints.length < 2) return;
+    const pointNumber = measurePoints.length;
 
-    if (measurePoints.length > 2) {
-      clearMeasurement();
-      addMeasurePoint(latlng);
-      return;
-    }
+    const coordPopup = L.popup({
+      autoClose: false,
+      closeOnClick: false
+    })
+      .setLatLng(latlng)
+      .setContent(`
+        <b>נקודה ${pointNumber}</b><br>
+        Lat: ${latlng.lat.toFixed(6)}<br>
+        Lng: ${latlng.lng.toFixed(6)}
+      `)
+      .addTo(map);
+
+    if (pointNumber === 1) return;
 
     measureLine = L.polyline(measurePoints, {
       weight: 3
@@ -214,14 +218,14 @@
     const midLng =
       (measurePoints[0].lng + measurePoints[1].lng) / 2;
 
-    L.popup({
+    measurePopup = L.popup({
       closeButton: false,
       autoClose: false,
       closeOnClick: false
     })
       .setLatLng([midLat, midLng])
       .setContent(`<b>${text}</b>`)
-      .openOn(map);
+      .addTo(map);
   }
 
   function clearMeasurement() {
@@ -239,7 +243,16 @@
 
     measureMarkers = [];
 
-    map.closePopup();
+    if (measurePopup) {
+      map.removeLayer(measurePopup);
+      measurePopup = null;
+    }
+
+    map.eachLayer(layer => {
+      if (layer instanceof L.Popup) {
+        map.removeLayer(layer);
+      }
+    });
   }
 
 })();
