@@ -48,7 +48,7 @@ function createMarkerIcon(labelText) {
      html: `
       <div class="custom-marker"><img src="${MARKER_ICON_URL}" alt="">
       <div class="custom-marker-label">${escapeHtml(labelText || '')}</div>
-      </div>`, iconSize: [70, 21], iconAnchor: [35, 10], popupAnchor: [0, -10] });
+      </div>`, iconSize: [70, 21], iconAnchor: [11, 11], popupAnchor: [0, -11] });
 }
 
 function ensureLayerVisible(layerName) { const layer = overlays[layerName]; if (layer && !map.hasLayer(layer)) layer.addTo(map); }
