@@ -43,7 +43,12 @@ function normalizeDescriptionHtml(html) {
 function stripHtml(html) { const div = document.createElement('div'); div.innerHTML = html || ''; return (div.textContent || div.innerText || '').trim(); }
 
 function createMarkerIcon(labelText) {
-  return L.divIcon({ className: '', html: `<div class="custom-marker"><img src="${MARKER_ICON_URL}" alt=""><div class="custom-marker-label">${escapeHtml(labelText || '')}</div></div>`, iconSize: [70, 21], iconAnchor: [9, 20], popupAnchor: [0, -18] });
+  return L.divIcon({
+     className: '', 
+     html: `
+      <div class="custom-marker"><img src="${MARKER_ICON_URL}" alt="">
+      <div class="custom-marker-label">${escapeHtml(labelText || '')}</div>
+      </div>`, iconSize: [70, 21], iconAnchor: [35, 21], popupAnchor: [0, -21] });
 }
 
 function ensureLayerVisible(layerName) { const layer = overlays[layerName]; if (layer && !map.hasLayer(layer)) layer.addTo(map); }
