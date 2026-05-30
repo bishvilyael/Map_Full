@@ -29,3 +29,18 @@ Full map title: מפת יעלים מצטברת - עדכון 30/05/2026
 Full map total points: 4390
 Point summary file: G:\My Drive\Sfirat_Yeelim\Exports\RIPOS\Map_Full\points-summary.json
 Split Full Israel/Rest mode: LinksVideos and Map_Full were not updated.
+Git commit: [main 25c6baf] Update Map_Full GeoJSON 2026-05-30 16:45:51
+ 19 files changed, 7501 insertions(+), 5490 deletions(-)
+ create mode 100644 json/update_log_20260530_164542.txt
+Git push: git.exe : To https://github.com/bishvilyael/Map_Full.git
+At G:\My Drive\Sfirat_Yeelim\Exports\Tools\KML_to_Ripo_IL\KML_to_Ripo.ps1:574 char:19
++         $output = & $GitPath @Arguments 2>&1 | Out-String
++                   ~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (To https://gith...el/Map_Full.git:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+   5c70eb9..25c6baf  main -> main
+Git: add/commit/push completed for G:\My Drive\Sfirat_Yeelim\Exports\RIPOS\Map_Full
+Finished: 2026-05-30 16:45:56
+Success : 8
+Failed  : 0
