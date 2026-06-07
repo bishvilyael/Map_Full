@@ -1,0 +1,25 @@
+﻿Started: 2026-06-02 12:07:17
+Map type: Full
+Source  : D:\LocalG\Sfirat_Yeelim\Exports\KML\Full_Export\02-06-26
+Output  : D:\LocalG\Sfirat_Yeelim\Exports\RIPOS\Map_Full\json
+Count   : 8
+OK: 0.kml -> 0.geojson
+Duplicate features removed from 0.geojson: 5
+OK: 1-1499.kml -> 1-1499.geojson
+Duplicate features removed from 1-1499.geojson: 78
+OK: 1500-2999.kml -> 1500-2999.geojson
+Duplicate features removed from 1500-2999.geojson: 54
+OK: 3000-4499.kml -> 3000-4499.geojson
+Duplicate features removed from 3000-4499.geojson: 3
+OK: 4500-5999.kml -> 4500-5999.geojson
+OK: 6000-7499.kml -> 6000-7499.geojson
+OK: 7500-8999.kml -> 7500-8999.geojson
+OK: 9000-10499.kml -> 9000-10499.geojson
+Full map title: מפת יעלים מצטברת - עדכון 02/06/2026
+Full map total points: 4397
+Point summary file: D:\LocalG\Sfirat_Yeelim\Exports\RIPOS\Map_Full\points-summary.json
+Point summary copied to LinksVideos: D:\LocalG\Sfirat_Yeelim\Exports\RIPOS\LinksVideos\points-summary.json
+LinksVideos script.js title already up to date: מפה מצטברת -  4397 נקודות
+Finished: 2026-06-02 12:07:22
+Success : 8
+Failed  : 0
