@@ -1,0 +1,75 @@
+﻿Started: 2026-06-08 09:35:19
+Map type: Full
+Source  : D:\LocalG\Sfirat_Yeelim\Exports\KML\Full_Export\08-06-26
+Output  : D:\LocalG\Sfirat_Yeelim\Exports\RIPOS\Map_Full\json
+Count   : 8
+Split full Israel/rest: True
+OK: 0.kml -> 0.geojson
+Duplicate features removed from 0.geojson: 5
+Split GeoJSON: 0.geojson -> 0_israel.geojson=98, 0_rest.geojson=101. Original removed to prevent double loading.
+OK: 1-1499.kml -> 1-1499.geojson
+Duplicate features removed from 1-1499.geojson: 78
+Split GeoJSON: 1-1499.geojson -> 1-1499_israel.geojson=770, 1-1499_rest.geojson=411. Original removed to prevent double loading.
+OK: 1500-2999.kml -> 1500-2999.geojson
+Duplicate features removed from 1500-2999.geojson: 54
+Split GeoJSON: 1500-2999.geojson -> 1500-2999_israel.geojson=588, 1500-2999_rest.geojson=403. Original removed to prevent double loading.
+OK: 3000-4499.kml -> 3000-4499.geojson
+Duplicate features removed from 3000-4499.geojson: 3
+Split GeoJSON: 3000-4499.geojson -> 3000-4499_israel.geojson=357, 3000-4499_rest.geojson=371. Original removed to prevent double loading.
+OK: 4500-5999.kml -> 4500-5999.geojson
+Split GeoJSON: 4500-5999.geojson -> 4500-5999_israel.geojson=272, 4500-5999_rest.geojson=224. Original removed to prevent double loading.
+OK: 6000-7499.kml -> 6000-7499.geojson
+Split GeoJSON: 6000-7499.geojson -> 6000-7499_israel.geojson=291, 6000-7499_rest.geojson=263. Original removed to prevent double loading.
+OK: 7500-8999.kml -> 7500-8999.geojson
+Split GeoJSON: 7500-8999.geojson -> 7500-8999_israel.geojson=131, 7500-8999_rest.geojson=68. Original removed to prevent double loading.
+OK: 9000-10499.kml -> 9000-10499.geojson
+Split GeoJSON: 9000-10499.geojson -> 9000-10499_israel.geojson=69, 9000-10499_rest.geojson=13. Original removed to prevent double loading.
+Split output check: total geojson=16, israel=8, rest=8, plain=0
+Full map title: מפת יעלים מצטברת - עדכון 08/06/2026
+Full map total points: 4430
+Point summary file: D:\LocalG\Sfirat_Yeelim\Exports\RIPOS\Map_Full\points-summary.json
+Split Full Israel/Rest mode: LinksVideos and Map_Full were not updated.
+Git commit: [main 27d63e5] Update Map_Full GeoJSON 2026-06-08 09:35:26
+ 26 files changed, 79965 insertions(+), 4628 deletions(-)
+ delete mode 100644 json/0.geojson
+ create mode 100644 json/0_israel.geojson
+ create mode 100644 json/0_rest.geojson
+ delete mode 100644 json/1-1499.geojson
+ create mode 100644 json/1-1499_israel.geojson
+ create mode 100644 json/1-1499_rest.geojson
+ delete mode 100644 json/1500-2999.geojson
+ create mode 100644 json/1500-2999_israel.geojson
+ create mode 100644 json/1500-2999_rest.geojson
+ delete mode 100644 json/3000-4499.geojson
+ create mode 100644 json/3000-4499_israel.geojson
+ create mode 100644 json/3000-4499_rest.geojson
+ delete mode 100644 json/4500-5999.geojson
+ create mode 100644 json/4500-5999_israel.geojson
+ create mode 100644 json/4500-5999_rest.geojson
+ delete mode 100644 json/6000-7499.geojson
+ create mode 100644 json/6000-7499_israel.geojson
+ create mode 100644 json/6000-7499_rest.geojson
+ delete mode 100644 json/7500-8999.geojson
+ create mode 100644 json/7500-8999_israel.geojson
+ create mode 100644 json/7500-8999_rest.geojson
+ delete mode 100644 json/9000-10499.geojson
+ create mode 100644 json/9000-10499_israel.geojson
+ create mode 100644 json/9000-10499_rest.geojson
+ create mode 100644 json/update_log_20260608_093519.txt
+Git push: git.exe : To https://github.com/bishvilyael/Map_Full.git
+At D:\LocalG\Sfirat_Yeelim\Exports\Tools\KML_to_Ripo_IL\KML_to_Ripo.ps1:574 char:19
++         $output = & $GitPath @Arguments 2>&1 | Out-String
++                   ~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (To https://gith...el/Map_Full.git:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/bishvilyael/Map_Full.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+WARNING: Git sync failed: git push failed with code 1
+Finished: 2026-06-08 09:35:29
+Success : 8
+Failed  : 0
