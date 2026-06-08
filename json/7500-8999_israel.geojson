@@ -1307,6 +1307,24 @@
                      {
                          "type":  "Feature",
                          "properties":  {
+                                            "Name":  "#8164",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דליה גרוסמן\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e חוף הסטונדטים\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 06-06-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4633\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3993607464265708/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3993607464265708/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1Xi-HPxxtl20fCN4CxPfunFNPhGEMBEgq\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              34.95452,
+                                                              32.78597,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
                                             "Name":  "#8205",
                                             "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e רעיה תייר\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e מצדה\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 21-11-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 2821\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3815937448699378\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3815937448699378\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1UFOV9FEXar5aFz38rjFtKRvGrH5XUSvO\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
                                             "tessellate":  -1,
