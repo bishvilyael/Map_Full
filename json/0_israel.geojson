@@ -11,96 +11,6 @@
                      {
                          "type":  "Feature",
                          "properties":  {
-                                            "Name":  "#-118",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e יפעת יגר\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e המכתש קטן\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 28-04-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4271\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3956853914607730\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3956853914607730\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1n3LtYvAhuZfAGWBXNUrVO5hQRH2L63o2\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              35.19458,
-                                                              30.96767,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#-120",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דיטסה קולקה\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e מעלה עמרם\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 30-11-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 2924\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3823136344646155\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3823136344646155\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1R5pEaqWuHcEfZx0jeADOOmFHGjVzhSco\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              34.92591,
-                                                              29.64879,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#-120",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דיטסה קולקה\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e הר עידו\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 27-03-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4001\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3928168860809569\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3928168860809569\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=13UV0Y04BoYkFbfCrPJq7G9PflJ6ahynB\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              34.76303,
-                                                              30.54833,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#-120",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דיטסה קולקה\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e הורקינה\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 11-04-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4107\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3941350326158089/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3941350326158089/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1q2XlICzU69yDtDLxOTGIM-jNZa2Mq8NN\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              35.36554,
-                                                              31.71953,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#-124",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e אריה אורן\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e מצפה / מכתש רמון\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 06-09-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 1759\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3741954759430981/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3741954759430981/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=19jj3dWsjCYEH64yMstlPr_7TZ6wqPmVI\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              34.84191,
-                                                              30.58986,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
                                             "Name":  "#-1",
                                             "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e אביחי שקד\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e בניאס\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 10-05-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 378\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/3235176716775457/posts/3638808343078957/\u0027\u003ehttps://www.facebook.com/groups/3235176716775457/posts/3638808343078957/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1RXLAqkR-B5f0LWu2dFurXiLwAjWOZdsp\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
                                             "tessellate":  -1,
@@ -238,96 +148,6 @@
                                           "coordinates":  [
                                                               34.81658,
                                                               30.80814,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#-9",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e מאיה יולזרי לוין\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e מירון\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 26-04-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 170\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/3235176716775457/posts/3625991954360596/\u0027\u003ehttps://www.facebook.com/groups/3235176716775457/posts/3625991954360596/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1D_hP_kDAGukFhrt5IjwHzZgq_ALvzGLl\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              35.45657,
-                                                              32.98263,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#-9",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e מאיה יולזרי לוין\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e הספריה הלאומית\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 06-06-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 929\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/3235176716775457/posts/3660650557561402/\u0027\u003ehttps://www.facebook.com/groups/3235176716775457/posts/3660650557561402/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1emG6e_OB-ORELqkHL-8KyuRD8xi9NHi8\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              35.20316,
-                                                              31.77715,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#-9",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e מאיה יולזרי לוין\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e אבני איתן\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 11-06-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 986\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3664884720471319/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3664884720471319/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1vh77e8LeQvm6uLIod60EIFhyn7zDHwtN\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              35.75831,
-                                                              32.82495,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#-9",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e מאיה יולזרי לוין\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e גבעת התחמושת\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 04-07-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 1091\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3684891365137321/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3684891365137321/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1yRgfFTqEEZw4DPLt8KHX0OEDV9gvgG1P\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              35.22767,
-                                                              31.79929,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#-9",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e מאיה יולזרי לוין\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e ניר עוז\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 20-08-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 1600\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3726832494276541/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3726832494276541/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1e6auK1lz4k9kl60Ru0btq3n-SQYrJur-\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              34.4013025,
-                                                              31.3072037,
                                                               0.0
                                                           ]
                                       }
@@ -659,6 +479,24 @@
                      {
                          "type":  "Feature",
                          "properties":  {
+                                            "Name":  "#-105",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e תמר מאיר\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e ים המלח\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 01-07-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4840\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4017681198525001/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4017681198525001/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1fgYudmXuxLxChghpvAbGpjPEAsU0EL-d\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.33036,
+                                                              31.50049,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
                                             "Name":  "#-112",
                                             "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e אוקסנה אברמוב מיכין\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e ים המלח\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 09-10-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 2298\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3774759786150478/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3774759786150478/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1Ux-M2EHQsM5c4GSDFtqhjAdO-1Sn8Lm0\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
                                             "tessellate":  -1,
@@ -713,6 +551,96 @@
                      {
                          "type":  "Feature",
                          "properties":  {
+                                            "Name":  "#-118",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e יפעת יגר\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e המכתש קטן\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 28-04-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4271\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3956853914607730\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3956853914607730\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1n3LtYvAhuZfAGWBXNUrVO5hQRH2L63o2\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.19458,
+                                                              30.96767,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#-120",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דיטסה קולקה\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e מעלה עמרם\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 30-11-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 2924\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3823136344646155\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3823136344646155\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1R5pEaqWuHcEfZx0jeADOOmFHGjVzhSco\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              34.92591,
+                                                              29.64879,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#-120",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דיטסה קולקה\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e הר עידו\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 27-03-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4001\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3928168860809569\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3928168860809569\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=13UV0Y04BoYkFbfCrPJq7G9PflJ6ahynB\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              34.76303,
+                                                              30.54833,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#-120",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דיטסה קולקה\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e הורקינה\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 11-04-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4107\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3941350326158089/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3941350326158089/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1q2XlICzU69yDtDLxOTGIM-jNZa2Mq8NN\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.36554,
+                                                              31.71953,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#-124",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e אריה אורן\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e מצפה / מכתש רמון\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 06-09-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 1759\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3741954759430981/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3741954759430981/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=19jj3dWsjCYEH64yMstlPr_7TZ6wqPmVI\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              34.84191,
+                                                              30.58986,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
                                             "Name":  "#-138",
                                             "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e טריש שרי\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e גדרה\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 21-09-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 1978\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3756476767978780\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3756476767978780\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1JPUGb7mVbKwiEklGtrlm2Pwoa8zvyMpg\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
                                             "tessellate":  -1,
@@ -742,6 +670,24 @@
                                           "coordinates":  [
                                                               34.61712,
                                                               31.62808,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#-155",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e טלי ברונר\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e בית ספר צין\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 01-07-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4842\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4017790845180703/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4017790845180703/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1-LdxGLqpG-PUfMrkmdXAKasN2MNTOYZD\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              34.78312,
+                                                              30.85336,
                                                               0.0
                                                           ]
                                       }
@@ -1768,6 +1714,24 @@
                                           "coordinates":  [
                                                               34.77777,
                                                               32.01126,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#-238",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e ענת שלג\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e חוף אשקלון\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 12-06-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4672\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3999486387011149/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3999486387011149/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=15ffghy4UqymZM1plsnzrQPsLRzOs1Upf\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              34.58063,
+                                                              31.71055,
                                                               0.0
                                                           ]
                                       }
