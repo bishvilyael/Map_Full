@@ -191,6 +191,24 @@
                      {
                          "type":  "Feature",
                          "properties":  {
+                                            "Name":  "#4659",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e אסתי מיכאל\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e מצפה / מכתש רמון\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 20-07-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 5033\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4035721786720942/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4035721786720942/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1AINBKHKA5eGR75L_pms8flqq7iENn6ES\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              34.8169,
+                                                              30.61324,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
                                             "Name":  "#4660",
                                             "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e \u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e אלון הגליל\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 25-09-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 176\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3760078750951915\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3760078750951915\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=191zNTIyVQoE4eLOEKftN8ZdTOSu0nL2z\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
                                             "tessellate":  -1,
@@ -256,6 +274,24 @@
                                           "coordinates":  [
                                                               35.14306,
                                                               32.6848,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#4660",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e \u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e מצפה / מכתש רמון\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 20-07-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 608\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4035721786720942/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4035721786720942/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1AINBKHKA5eGR75L_pms8flqq7iENn6ES\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              34.8169,
+                                                              30.61351,
                                                               0.0
                                                           ]
                                       }
@@ -641,6 +677,24 @@
                      {
                          "type":  "Feature",
                          "properties":  {
+                                            "Name":  "#4664",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e כוכי עובדיה\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e פארק הזהב\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 31-07-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 5136\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4046424275650693/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4046424275650693/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1tQ-2wuCbyGVs4b6Rk6Msa3zWrTJnFGBC\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.57433,
+                                                              33.20447,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
                                             "Name":  "#4671",
                                             "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e רז פלג\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e נחל שניר\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 08-08-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 1452\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3716053528687771/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3716053528687771/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1V5h6y2v2c-jPw597AoDd3qYLb1Y1MbaR\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
                                             "tessellate":  -1,
@@ -814,6 +868,24 @@
                                           "coordinates":  [
                                                               35.4677,
                                                               32.97226,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#4671",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e רז פלג\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e נחל חרמון\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 24-07-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 5071\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4039544236338697/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4039544236338697/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1t-M-f4ddC9XFmM8p5YyeMIiEAADPvZGz\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.65187,
+                                                              33.22133,
                                                               0.0
                                                           ]
                                       }
@@ -1199,6 +1271,24 @@
                      {
                          "type":  "Feature",
                          "properties":  {
+                                            "Name":  "#4892",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e \u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e \u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 18-07-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 607\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4034083120218142/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4034083120218142/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1q7ImgmrQdycotcToheoCzt_lRQaxw_SU\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.06907,
+                                                              31.76033,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
                                             "Name":  "#4925",
                                             "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e עידן מוסלי\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e מצפה / מכתש רמון\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 09-01-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 3307\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3857476071212182\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3857476071212182\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1fhiZQYioCwxt3RYE-JpGl0UCl3I44NLJ\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
                                             "tessellate":  -1,
@@ -1300,6 +1390,240 @@
                                           "coordinates":  [
                                                               34.96771,
                                                               29.54868,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#5515",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e תל חצור\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 15-01-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 3344\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3862063244086798\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3862063244086798\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=10JGgErA2L81TuB6mo6hQFbjFIlHlBXdI\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.56823,
+                                                              33.01756,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#5515",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e חורבת עיתרי\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 30-01-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 3509\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3875902506036205\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3875902506036205\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1vb49Q4TDOJBPEt_4iHe8gdXxo3nu-kVi\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              34.96814,
+                                                              31.64645,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#5515",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e בוסתן יעל\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 22-02-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 3826\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3897699570523165/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3897699570523165/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1jI8-RHvThgrDef1zUzyUl7etLra2HGo3\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              34.59717,
+                                                              31.63085,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#5515",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e עמק הצבאים\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 14-03-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 3954\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3915883485371440/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3915883485371440/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1sufmM006lIjxxSwPUbLh_KuSRfpUL_iv\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.19871,
+                                                              31.75906,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#5515",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e מרתון ירושלים\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 17-04-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4144\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3946340948992360\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3946340948992360\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1PqNqwLBwqvtlraJbR3ujkxuULIprcYHL\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.22754,
+                                                              31.77621,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#5515",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e מגדל דוד\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 01-05-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4292\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3959326621027126\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3959326621027126\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=15j5kBD504ybgCV6xefDzP6OCFOyQvvwP\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.22824,
+                                                              31.77656,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#5515",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e בוסתן יעל\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 21-05-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4502\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3977885819171206\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3977885819171206\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1seQDNz7mB0o5LvwE6bWc7w9KSf16s8rK\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              34.59687,
+                                                              31.63028,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#5515",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e יד קנדי\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 24-05-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4524\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3980661442226977\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3980661442226977\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1fEN0wqBfX-uK6Wu-TttaroKvaYmYe4u9\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.13479,
+                                                              31.74914,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#5515",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e  Notre dame of jerusalem\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 29-05-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4569\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3985701135056341\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3985701135056341\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1Z_YztQOJblLjg1k7br-iHosPVVjQV8ia\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.22582,
+                                                              31.77982,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#5515",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e עין לבן\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 15-06-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4697\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4002728433353611\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4002728433353611\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1GBPPadjomwQiHvh83HTTf5s2A-9eMQGz\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.15954,
+                                                              31.74953,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#5515",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e בית ספר שדה\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 24-06-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4766\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4010732369219884\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4010732369219884\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1K3_awbzhEzO-gOta3z99Ga1VeQNdcg2V\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              34.79056,
+                                                              30.60329,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#5516",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e אופיר שילה\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e בקו\u0026quot;ם\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 24-08-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 1641\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3730667620559695\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3730667620559695\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=189bTinZpwB3Ev-5-d5Nlfy8n0JydMXbT\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              34.8452266,
+                                                              32.0385037,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#5516",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e אופיר שילה\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e צבעון\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 31-05-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4594\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3987807841512337\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3987807841512337\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1WTPATd9TRctsFDVscXRmHOP3A43S4RV5\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.41513,
+                                                              33.02751,
                                                               0.0
                                                           ]
                                       }
@@ -1775,6 +2099,24 @@
                      {
                          "type":  "Feature",
                          "properties":  {
+                                            "Name":  "#5148",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e אסנת לוי\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e נמל יפו\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 03-07-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4873\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4019757091650745/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4019757091650745/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=15NabeM1oAnSzumKRP2y3UuM7Imgeis1-\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              34.74852,
+                                                              32.05187,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
                                             "Name":  "#5155",
                                             "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e \u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 25-06-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4776\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4011676432458811\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4011676432458811\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1BkOQIAzypWsZKQSk_wlCq0FQB5N5OLEH\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
                                             "tessellate":  -1,
@@ -1804,6 +2146,42 @@
                                           "coordinates":  [
                                                               35.15953,
                                                               31.74951,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#5155",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e עין יעל\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 12-07-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4964\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4028164387476682/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4028164387476682/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=13dKKQAbr8d-aTX8bTHr0qMKNs8311mxV\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.17788,
+                                                              31.74326,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#5155",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e חרבת סעדים\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 17-07-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 5002\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4033143443645443/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4033143443645443/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1i0FXGdkaamb4YSUHxLlitQQCMVAfTtHN\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.12943,
+                                                              31.75121,
                                                               0.0
                                                           ]
                                       }
@@ -2333,6 +2711,24 @@
                      {
                          "type":  "Feature",
                          "properties":  {
+                                            "Name":  "#5369",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e גילה רון סעדה\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e עין רסיסים\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 03-07-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4875\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4019832584976529/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4019832584976529/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1wbLgs4NtgxPmdSkV_sE1d1LvX4bqJM-I\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.74953,
+                                                              33.23282,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
                                             "Name":  "#5396",
                                             "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דפני כגן\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e עין עבדת\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 26-02-0202\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 3861\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3901400726819716/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3901400726819716/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=19j1ISlRkvoy-C6SzyzcYce2EsSjrV-xs\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
                                             "tessellate":  -1,
@@ -2434,6 +2830,24 @@
                                           "coordinates":  [
                                                               34.87456,
                                                               32.26877,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#5396",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דפני כגן\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e ראש הנקרה\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 23-07-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 5061\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4038604023099385/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4038604023099385/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=193YHb0Fucp1tTodA_aSyaAVqJz7U73X6\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.1047,
+                                                              33.08637,
                                                               0.0
                                                           ]
                                       }
@@ -3161,6 +3575,24 @@
                      {
                          "type":  "Feature",
                          "properties":  {
+                                            "Name":  "#5402",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e יעקב עזרא\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e טיילת לואי\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 22-07-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 5051\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4037310973228690/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4037310973228690/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=16JRu94YtVFfCgbK6OdZpwWYunhMn516R\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              34.9809,
+                                                              32.8109,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
                                             "Name":  "#5403",
                                             "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e שלום לוי\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e הר אדר\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 19-10-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 2442\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3784243558535434\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3784243558535434\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1_ISiD4xmMgrtJF-VJkT8bhDZI73t74_v\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
                                             "tessellate":  -1,
@@ -3683,6 +4115,24 @@
                      {
                          "type":  "Feature",
                          "properties":  {
+                                            "Name":  "#5496",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e רונה דויטש\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e עין מוקש\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 26-07-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 5090\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/permalink/4041376032822184/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/permalink/4041376032822184/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027D:\\LocalG\\Sfirat_Yeelim\\Photos\\4000-5999\\05090.jpg\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              35.81475,
+                                                              33.09893,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
                                             "Name":  "#5497",
                                             "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e יוסף תירוש\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e מצפה / מכתש רמון\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 21-09-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 1979\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3756539484639175/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3756539484639175/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1oz19_7WFpT4sIiLjvdh3lZGY-Hm4IXO3\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
                                             "tessellate":  -1,
@@ -3802,240 +4252,6 @@
                                           "coordinates":  [
                                                               35.32344,
                                                               31.74291,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#5515",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e תל חצור\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 15-01-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 3344\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3862063244086798\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3862063244086798\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=10JGgErA2L81TuB6mo6hQFbjFIlHlBXdI\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              35.56823,
-                                                              33.01756,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#5515",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e חורבת עיתרי\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 30-01-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 3509\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3875902506036205\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3875902506036205\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1vb49Q4TDOJBPEt_4iHe8gdXxo3nu-kVi\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              34.96814,
-                                                              31.64645,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#5515",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e בוסתן יעל\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 22-02-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 3826\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3897699570523165/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3897699570523165/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1jI8-RHvThgrDef1zUzyUl7etLra2HGo3\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              34.59717,
-                                                              31.63085,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#5515",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e עמק הצבאים\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 14-03-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 3954\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3915883485371440/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3915883485371440/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1sufmM006lIjxxSwPUbLh_KuSRfpUL_iv\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              35.19871,
-                                                              31.75906,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#5515",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e מרתון ירושלים\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 17-04-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4144\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3946340948992360\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3946340948992360\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1PqNqwLBwqvtlraJbR3ujkxuULIprcYHL\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              35.22754,
-                                                              31.77621,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#5515",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e מגדל דוד\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 01-05-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4292\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3959326621027126\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3959326621027126\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=15j5kBD504ybgCV6xefDzP6OCFOyQvvwP\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              35.22824,
-                                                              31.77656,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#5515",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e בוסתן יעל\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 21-05-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4502\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3977885819171206\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3977885819171206\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1seQDNz7mB0o5LvwE6bWc7w9KSf16s8rK\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              34.59687,
-                                                              31.63028,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#5515",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e יד קנדי\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 24-05-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4524\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3980661442226977\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3980661442226977\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1fEN0wqBfX-uK6Wu-TttaroKvaYmYe4u9\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              35.13479,
-                                                              31.74914,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#5515",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e  Notre dame of jerusalem\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 29-05-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4569\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3985701135056341\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3985701135056341\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1Z_YztQOJblLjg1k7br-iHosPVVjQV8ia\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              35.22582,
-                                                              31.77982,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#5515",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e עין לבן\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 15-06-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4697\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4002728433353611\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4002728433353611\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1GBPPadjomwQiHvh83HTTf5s2A-9eMQGz\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              35.15954,
-                                                              31.74953,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#5515",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e דרור שוורץ\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e בית ספר שדה\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 24-06-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4766\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4010732369219884\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4010732369219884\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1K3_awbzhEzO-gOta3z99Ga1VeQNdcg2V\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              34.79056,
-                                                              30.60329,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#5516",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e אופיר שילה\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e בקו\u0026quot;ם\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 24-08-2025\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 1641\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3730667620559695\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3730667620559695\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=189bTinZpwB3Ev-5-d5Nlfy8n0JydMXbT\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              34.8452266,
-                                                              32.0385037,
-                                                              0.0
-                                                          ]
-                                      }
-                     },
-                     {
-                         "type":  "Feature",
-                         "properties":  {
-                                            "Name":  "#5516",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e אופיר שילה\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e צבעון\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 31-05-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4594\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/3987807841512337\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/3987807841512337\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1WTPATd9TRctsFDVscXRmHOP3A43S4RV5\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
-                                            "tessellate":  -1,
-                                            "extrude":  0,
-                                            "visibility":  -1
-                                        },
-                         "geometry":  {
-                                          "type":  "Point",
-                                          "coordinates":  [
-                                                              35.41513,
-                                                              33.02751,
                                                               0.0
                                                           ]
                                       }
