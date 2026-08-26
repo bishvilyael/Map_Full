@@ -322,3 +322,45 @@ html, body { height: 100%; margin: 0; font-family: Arial, sans-serif; }
   height: 18px;
 }
 
+
+
+/* Map_Full DEV - cluster presentation */
+.map-cluster-div-icon { background: transparent !important; border: 0 !important; }
+.map-cluster-icon {
+  position: relative;
+  width: 66px;
+  height: 66px;
+  border-radius: 50%;
+  filter: drop-shadow(0 2px 3px rgba(0,0,0,0.35));
+}
+.map-cluster-icon img {
+  display: block;
+  width: 66px;
+  height: 66px;
+  object-fit: contain;
+  border-radius: 50%;
+}
+.map-cluster-icon span {
+  position: absolute;
+  top: 9px;
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 42px;
+  text-align: center;
+  color: #e00000;
+  font-size: 28px;
+  line-height: 1;
+  font-weight: 900;
+  font-family: Arial, sans-serif;
+  letter-spacing: -0.5px;
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff, 0 2px 2px rgba(255,255,255,0.9);
+  pointer-events: none;
+}
+.marker-mode-btn { font-weight: bold; white-space: nowrap; }
+.marker-mode-btn.classic-active { outline: 2px solid rgba(0,105,180,0.25); }
+
+@media (max-width: 768px) {
+  .map-cluster-icon, .map-cluster-icon img { width: 60px; height: 60px; }
+  .map-cluster-icon span { top: 8px; font-size: 25px; }
+  .marker-mode-btn { font-size: 11px; padding-left: 7px; padding-right: 7px; }
+}
