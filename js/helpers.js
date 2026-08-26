@@ -62,6 +62,18 @@ function createMarkerIcon(labelText) {
 
 function ensureLayerVisible(layerName) { const layer = overlays[layerName]; if (layer && !map.hasLayer(layer)) layer.addTo(map); }
 
+function showItemMarker(item, zoomLevel = DEFAULT_ZOOM_ON_SEARCH) {
+  if (!item || !item.marker) return;
+  ensureLayerVisible(item.layerLabel);
+  map.setView([item.lat, item.lon], zoomLevel);
+  const layerInfo = layerRegistry[item.layerLabel];
+  if (markerDisplayMode === 'cluster' && layerInfo && layerInfo.clusterLayer && typeof layerInfo.clusterLayer.zoomToShowLayer === 'function') {
+    layerInfo.clusterLayer.zoomToShowLayer(item.marker, () => item.marker.openPopup());
+  } else {
+    item.marker.openPopup();
+  }
+}
+
 function extractSearchLines(name, descriptionText) {
   const lines = []; if (name) lines.push(name);
   const parts = descriptionText.split(/\n+/).map(x => x.trim()).filter(Boolean);

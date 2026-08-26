@@ -7,26 +7,15 @@ function buildLayerList() {
 
     block.innerHTML = `
       <div class="layer-row">
-        <div class="layer-title" data-role="layer-title"></div>
+        <div class="layer-title">${escapeHtml(layerInfo.label)} (${layerInfo.items.length})</div>
         <div class="layer-tools">
           <button data-action="toggle-layer">${map.hasLayer(layerInfo.layer) ? 'הסתר' : 'הצג'}</button>
+          <button data-action="toggle-items">יעלים</button>
         </div>
       </div>
-      <div class="layer-items"></div>`;
+      <div class="layer-items" data-built="0"></div>`;
 
     const itemsDiv = block.querySelector('.layer-items');
-
-    const titleDiv = block.querySelector('[data-role="layer-title"]');
-    let layerItemsToggleBtn = null;
-
-    if (typeof buildLayerHeaderTitleElement === 'function') {
-      const titleParts = buildLayerHeaderTitleElement(layerInfo.label, layerInfo.items.length);
-      titleDiv.appendChild(titleParts.wrap);
-      layerItemsToggleBtn = titleParts.button;
-      layerItemsToggleBtn.dataset.layerListToggle = '1';
-    } else {
-      titleDiv.textContent = `${layerInfo.label} (${layerInfo.items.length})`;
-    }
 
     function buildLayerItemsOnDemand() {
       if (itemsDiv.dataset.built === '1') return;
@@ -38,7 +27,9 @@ function buildLayerList() {
       }
 
       const openItem = (item) => {
-        showItemMarker(item, DEFAULT_ZOOM_ON_SEARCH);
+        ensureLayerVisible(layerInfo.label);
+        map.setView([item.lat, item.lon], DEFAULT_ZOOM_ON_SEARCH);
+        item.marker.openPopup();
       };
 
       const createItemRow = (item, options) => {
@@ -117,77 +108,17 @@ function buildLayerList() {
       }
     });
 
-    if (layerItemsToggleBtn) {
-      layerItemsToggleBtn.addEventListener('click', () => {
-        buildLayerItemsOnDemand();
-        itemsDiv.classList.toggle('open');
-        if (typeof syncLayerItemsTriangleButton === 'function') {
-          syncLayerItemsTriangleButton(layerItemsToggleBtn, itemsDiv);
-        }
-      });
-
-      if (typeof initLayerItemsTriangleButton === 'function') {
-        initLayerItemsTriangleButton(layerItemsToggleBtn, itemsDiv);
-      }
-    }
+    block.querySelector('[data-action="toggle-items"]').addEventListener('click', () => {
+      buildLayerItemsOnDemand();
+      itemsDiv.classList.toggle('open');
+    });
 
     layersListEl.appendChild(block);
   });
-
-  if (typeof initLayersPanelMasterToggle === 'function') {
-    initLayersPanelMasterToggle('layers');
-  }
 }
 
 function waitForBrowser(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
-}
-
-function createMapClusterIcon(cluster) {
-  const count = cluster.getChildCount();
-  return L.divIcon({
-    className: 'map-cluster-div-icon',
-    html: `<div class="map-cluster-icon"><img src="icons/header-right.png" alt=""><span>${count}</span></div>`,
-    iconSize: [66, 66],
-    iconAnchor: [33, 33]
-  });
-}
-
-function updateMarkerModeButton() {
-  const btn = document.getElementById('markerModeBtn');
-  if (!btn) return;
-  const clustered = markerDisplayMode === 'cluster';
-  btn.textContent = clustered ? 'תצוגה רגילה' : 'תצוגת אשכולות';
-  btn.title = clustered ? 'מעבר לתצוגה הקודמת: כל נקודה בנפרד' : 'מעבר לתצוגת אשכולות';
-  btn.classList.toggle('classic-active', !clustered);
-}
-
-function setMarkerDisplayMode(mode) {
-  const nextMode = mode === 'classic' ? 'classic' : 'cluster';
-  if (nextMode === markerDisplayMode) {
-    updateMarkerModeButton();
-    return;
-  }
-
-  map.closePopup();
-  markerDisplayMode = nextMode;
-
-  Object.values(layerRegistry).forEach(layerInfo => {
-    if (!layerInfo || !layerInfo.layer) return;
-    if (nextMode === 'cluster') {
-      if (layerInfo.layer.hasLayer(layerInfo.plainLayer)) layerInfo.layer.removeLayer(layerInfo.plainLayer);
-      if (!layerInfo.layer.hasLayer(layerInfo.clusterLayer)) layerInfo.layer.addLayer(layerInfo.clusterLayer);
-    } else {
-      if (layerInfo.layer.hasLayer(layerInfo.clusterLayer)) layerInfo.layer.removeLayer(layerInfo.clusterLayer);
-      if (!layerInfo.layer.hasLayer(layerInfo.plainLayer)) layerInfo.layer.addLayer(layerInfo.plainLayer);
-    }
-  });
-
-  updateMarkerModeButton();
-}
-
-function toggleMarkerDisplayMode() {
-  setMarkerDisplayMode(markerDisplayMode === 'cluster' ? 'classic' : 'cluster');
 }
 
 function getOrCreateLayerInfo(layerLabel, visible) {
@@ -195,22 +126,8 @@ function getOrCreateLayerInfo(layerLabel, visible) {
     return layerRegistry[layerLabel];
   }
 
-  const clusterLayer = L.markerClusterGroup({
-    showCoverageOnHover: false,
-    spiderfyOnMaxZoom: true,
-    removeOutsideVisibleBounds: true,
-    animate: false,
-    maxClusterRadius: 60,
-    iconCreateFunction: createMapClusterIcon
-  });
-  const plainLayer = L.layerGroup();
-  const layer = L.layerGroup();
-  layer.addLayer(clusterLayer);
-
   const layerInfo = {
-    layer,
-    clusterLayer,
-    plainLayer,
+    layer: L.layerGroup(),
     count: 0,
     label: layerLabel,
     items: [],
@@ -262,8 +179,7 @@ function addFeatureToLayer(feature, layerInfo) {
     minWidth: 220
   });
 
-  layerInfo.clusterLayer.addLayer(marker);
-  layerInfo.plainLayer.addLayer(marker);
+  layerInfo.layer.addLayer(marker);
   allBounds.push([latlng.lat, latlng.lng]);
 
   const descriptionText = stripHtml(rawDescriptionHtml);
@@ -430,16 +346,4 @@ async function initMap() {
     setStatus('שגיאה כללית בטעינת השכבות');
     alert('שגיאה בטעינת השכבות: ' + err.message);
   }
-}
-function createExpandToggle(isOpen = false) {
-  const btn = document.createElement('button');
-  btn.className = 'tree-toggle-btn';
-  btn.textContent = isOpen ? '▼' : '▶';
-
-  btn.addEventListener('click', () => {
-    const open = btn.textContent === '▼';
-    btn.textContent = open ? '▶' : '▼';
-  });
-
-  return btn;
 }

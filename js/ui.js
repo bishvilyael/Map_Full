@@ -46,3 +46,10 @@ updateSearchModeUi();
 })();
 
 map.on('click', () => { if (window.innerWidth <= 768) closeAllPanels(); });
+
+
+const markerModeBtn = document.getElementById('markerModeBtn');
+if (markerModeBtn) {
+  markerModeBtn.addEventListener('click', toggleMarkerDisplayMode);
+  updateMarkerModeButton();
+}

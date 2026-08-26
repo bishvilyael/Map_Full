@@ -143,74 +143,19 @@ function waitForBrowser(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-function createMapClusterIcon(cluster) {
-  const count = cluster.getChildCount();
-  return L.divIcon({
-    className: 'map-cluster-div-icon',
-    html: `<div class="map-cluster-icon"><img src="icons/header-right.png" alt=""><span>${count}</span></div>`,
-    iconSize: [66, 66],
-    iconAnchor: [33, 33]
-  });
-}
-
-function updateMarkerModeButton() {
-  const btn = document.getElementById('markerModeBtn');
-  if (!btn) return;
-  const clustered = markerDisplayMode === 'cluster';
-  btn.textContent = clustered ? 'תצוגה רגילה' : 'תצוגת אשכולות';
-  btn.title = clustered ? 'מעבר לתצוגה הקודמת: כל נקודה בנפרד' : 'מעבר לתצוגת אשכולות';
-  btn.classList.toggle('classic-active', !clustered);
-}
-
-function setMarkerDisplayMode(mode) {
-  const nextMode = mode === 'classic' ? 'classic' : 'cluster';
-  if (nextMode === markerDisplayMode) {
-    updateMarkerModeButton();
-    return;
-  }
-
-  map.closePopup();
-  markerDisplayMode = nextMode;
-
-  Object.values(layerRegistry).forEach(layerInfo => {
-    if (!layerInfo || !layerInfo.layer) return;
-    if (nextMode === 'cluster') {
-      if (layerInfo.layer.hasLayer(layerInfo.plainLayer)) layerInfo.layer.removeLayer(layerInfo.plainLayer);
-      if (!layerInfo.layer.hasLayer(layerInfo.clusterLayer)) layerInfo.layer.addLayer(layerInfo.clusterLayer);
-    } else {
-      if (layerInfo.layer.hasLayer(layerInfo.clusterLayer)) layerInfo.layer.removeLayer(layerInfo.clusterLayer);
-      if (!layerInfo.layer.hasLayer(layerInfo.plainLayer)) layerInfo.layer.addLayer(layerInfo.plainLayer);
-    }
-  });
-
-  updateMarkerModeButton();
-}
-
-function toggleMarkerDisplayMode() {
-  setMarkerDisplayMode(markerDisplayMode === 'cluster' ? 'classic' : 'cluster');
-}
-
 function getOrCreateLayerInfo(layerLabel, visible) {
   if (layerRegistry[layerLabel]) {
     return layerRegistry[layerLabel];
   }
 
-  const clusterLayer = L.markerClusterGroup({
-    showCoverageOnHover: false,
-    spiderfyOnMaxZoom: true,
-    removeOutsideVisibleBounds: true,
-    animate: false,
-    maxClusterRadius: 60,
-    iconCreateFunction: createMapClusterIcon
-  });
-  const plainLayer = L.layerGroup();
-  const layer = L.layerGroup();
-  layer.addLayer(clusterLayer);
-
   const layerInfo = {
-    layer,
-    clusterLayer,
-    plainLayer,
+    layer: L.markerClusterGroup({
+      showCoverageOnHover: false,
+      spiderfyOnMaxZoom: true,
+      removeOutsideVisibleBounds: true,
+      animate: false,
+      maxClusterRadius: 60
+    }),
     count: 0,
     label: layerLabel,
     items: [],
@@ -262,8 +207,7 @@ function addFeatureToLayer(feature, layerInfo) {
     minWidth: 220
   });
 
-  layerInfo.clusterLayer.addLayer(marker);
-  layerInfo.plainLayer.addLayer(marker);
+  layerInfo.layer.addLayer(marker);
   allBounds.push([latlng.lat, latlng.lng]);
 
   const descriptionText = stripHtml(rawDescriptionHtml);

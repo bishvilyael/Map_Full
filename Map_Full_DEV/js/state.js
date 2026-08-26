@@ -22,6 +22,3 @@ let loadedLayers = 0;
 let isRestLoadingComplete = false;
 let isLayerListBuilt = false;
 let isLayerListDirty = true;
-
-// Marker display mode: clustered by default.
-let markerDisplayMode = 'cluster';
