@@ -118,7 +118,7 @@ function renderSearchResults(items) {
   items.forEach(item => {
     const row = document.createElement('div'); row.className = 'search-result-item';
     row.innerHTML = extractSearchLines(item.name, item.descriptionText).map(line => `<div class="search-result-line">${escapeHtml(line)}</div>`).join('');
-    row.addEventListener('click', () => { ensureLayerVisible(item.layerLabel); map.setView([item.lat, item.lon], DEFAULT_ZOOM_ON_SEARCH); item.marker.openPopup(); });
+    row.addEventListener('click', () => { showItemMarker(item, DEFAULT_ZOOM_ON_SEARCH); });
     searchResultsEl.appendChild(row);
   });
 }
@@ -128,9 +128,7 @@ function zoomToSearchResults(items) {
 
   if (items.length === 1) {
     const item = items[0];
-    ensureLayerVisible(item.layerLabel);
-    map.setView([item.lat, item.lon], 11);
-    item.marker.openPopup();
+    showItemMarker(item, 11);
     return;
   }
 

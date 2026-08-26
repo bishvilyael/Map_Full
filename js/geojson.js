@@ -38,9 +38,7 @@ function buildLayerList() {
       }
 
       const openItem = (item) => {
-        ensureLayerVisible(layerInfo.label);
-        map.setView([item.lat, item.lon], DEFAULT_ZOOM_ON_SEARCH);
-        item.marker.openPopup();
+        showItemMarker(item, DEFAULT_ZOOM_ON_SEARCH);
       };
 
       const createItemRow = (item, options) => {
@@ -151,7 +149,13 @@ function getOrCreateLayerInfo(layerLabel, visible) {
   }
 
   const layerInfo = {
-    layer: L.layerGroup(),
+    layer: L.markerClusterGroup({
+      showCoverageOnHover: false,
+      spiderfyOnMaxZoom: true,
+      removeOutsideVisibleBounds: true,
+      animate: false,
+      maxClusterRadius: 60
+    }),
     count: 0,
     label: layerLabel,
     items: [],

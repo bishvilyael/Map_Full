@@ -62,6 +62,21 @@ function createMarkerIcon(labelText) {
 
 function ensureLayerVisible(layerName) { const layer = overlays[layerName]; if (layer && !map.hasLayer(layer)) layer.addTo(map); }
 
+// פותח נקודה גם כאשר היא מוסתרת כרגע בתוך Cluster.
+function showItemMarker(item, zoomLevel = DEFAULT_ZOOM_ON_SEARCH) {
+  if (!item || !item.marker) return;
+
+  ensureLayerVisible(item.layerLabel);
+  map.setView([item.lat, item.lon], zoomLevel);
+
+  const group = overlays[item.layerLabel];
+  if (group && typeof group.zoomToShowLayer === 'function') {
+    group.zoomToShowLayer(item.marker, () => item.marker.openPopup());
+  } else {
+    item.marker.openPopup();
+  }
+}
+
 function extractSearchLines(name, descriptionText) {
   const lines = []; if (name) lines.push(name);
   const parts = descriptionText.split(/\n+/).map(x => x.trim()).filter(Boolean);
