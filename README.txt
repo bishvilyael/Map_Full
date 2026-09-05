@@ -1,9 +1,9 @@
-V2 - תיקון חיבור בפועל למפה מלאה
+﻿V2 - תיקון חיבור בפועל למפה מלאה
 
 מה עודכן:
 1. index.html
    נוספה טעינה של הקובץ המשותף החדש:
-   https://bishvilyael.github.io/Map_Shared/js/map-shared-extra-tools.js
+   https://bishvilyael.github.io/Map_Shared_Code/js/map-shared-extra-tools.js
 
 2. geojson.js
    - כפתור זום עולמי נוצר בפועל עם initMap.
@@ -11,9 +11,10 @@ V2 - תיקון חיבור בפועל למפה מלאה
    - רשימת יעלים מורחבת נבנית רק בזמן פתיחת השכבה, לא בזמן פתיחת חלונית השכבות.
    - הטקסט בשורה משתמש ב-buildLayerItemDisplayText מתוך הקובץ המשותף.
 
-3. Map_Shared/js/map-shared-extra-tools.js
+3. Map_Shared_Code/js/map-shared-extra-tools.js
    קובץ חדש בלבד. לא מחליף קבצים קיימים בריפו המשותף.
 
 סדר פריסה:
-1. להעלות קודם את Map_Shared/js/map-shared-extra-tools.js לריפו Map_Shared.
+1. להעלות קודם את Map_Shared_Code/js/map-shared-extra-tools.js לריפו Map_Shared_Code.
 2. אחר כך להעלות את index.html ו-geojson.js לריפו המפה.
+

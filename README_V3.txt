@@ -1,4 +1,4 @@
-V3 - תיקון לפי בדיקה במפה המלאה
+﻿V3 - תיקון לפי בדיקה במפה המלאה
 
 1. כפתור זום עולמי
 - הכפתור כבר לא איקון Leaflet.
@@ -19,4 +19,5 @@ V3 - תיקון לפי בדיקה במפה המלאה
 - geojson.js
 
 קובץ חדש/מעודכן בריפו המשותף:
-- Map_Shared/js/map-shared-extra-tools.js
+- Map_Shared_Code/js/map-shared-extra-tools.js
+

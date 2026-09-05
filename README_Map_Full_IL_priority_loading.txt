@@ -1,10 +1,10 @@
-Map_Full_IL priority loading
+﻿Map_Full_IL priority loading
 
 קבצים ששונו:
 - config.js
 - geojson.js
 
-אין שינוי ב-Map_Shared.
+אין שינוי ב-Map_Shared_Code.
 
 מה השתנה:
 1. config.js כבר לא מפנה אל json/<label>.geojson.
@@ -30,3 +30,4 @@ V3:
 - אם החלונית פתוחה בזמן טעינת rest, היא מתעדכנת; אחרת היא תיבנה בפתיחה הבאה.
 - חיפוש יעלים חסום עד לסיום טעינת כל קבצי rest, כדי למנוע חיפוש חלקי ועומס בהתחלה.
 - חיפוש אזור ממשיך לעבוד גם בזמן טעינת הרקע.
+
