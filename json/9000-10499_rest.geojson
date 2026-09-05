@@ -335,6 +335,24 @@
                      {
                          "type":  "Feature",
                          "properties":  {
+                                            "Name":  "#9554",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e לילך שמחאי\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e כרתים\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 26-08-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 5349\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4071750613118059/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4071750613118059/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1gorhPirle0kehCcOSjdCUsE3gxBkYDWr\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              24.75707,
+                                                              35.31858,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
                                             "Name":  "#9607",
                                             "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e נטלי לרנר\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e אגם Bezbog\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 28-06-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 4816\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4014880545471733\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4014880545471733\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1fKgcM7qZPQwv3LklAFt1DkPar5ZDdr4n\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
                                             "tessellate":  -1,
@@ -346,6 +364,42 @@
                                           "coordinates":  [
                                                               23.52488,
                                                               41.7336,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#9607",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e נטלי לרנר\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e Everglades National Park\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 06-08-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 5182\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4051599961799791/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4051599961799791/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027D:\\LocalG\\Sfirat_Yeelim\\Photos\\4000-5999\\05182.jpg\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              -80.90688,
+                                                              25.21457,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#9607",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e נטלי לרנר\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e Southermost Tip of Usa\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 11-08-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 5230\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4056159944677126/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4056159944677126/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1NORKE-9EcmEcHthvm0qMqK8zgjP5csQn\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              -81.7975,
+                                                              24.54651,
                                                               0.0
                                                           ]
                                       }
@@ -389,6 +443,150 @@
                      {
                          "type":  "Feature",
                          "properties":  {
+                                            "Name":  "#9816",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e \u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e אלפים\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 07-08-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 625\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4052043578422096/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4052043578422096/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027D:\\LocalG\\Sfirat_Yeelim\\Photos\\4000-5999\\05187.jpg\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              14.59443,
+                                                              47.51653,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#9817",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e \u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e אלפים\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 07-08-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 626\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4052043578422096/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4052043578422096/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027D:\\LocalG\\Sfirat_Yeelim\\Photos\\4000-5999\\05187.jpg\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              14.59443,
+                                                              47.5168,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#9818",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e \u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e אלפים\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 07-08-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 627\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4052043578422096/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4052043578422096/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027D:\\LocalG\\Sfirat_Yeelim\\Photos\\4000-5999\\05187.jpg\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              14.59443,
+                                                              47.51707,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#9819",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e \u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e אלפים\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 07-08-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 628\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4052043578422096/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4052043578422096/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027D:\\LocalG\\Sfirat_Yeelim\\Photos\\4000-5999\\05187.jpg\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              14.59443,
+                                                              47.51734,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#9820",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e \u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e אלפים\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 07-08-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 629\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4052043578422096/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4052043578422096/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027D:\\LocalG\\Sfirat_Yeelim\\Photos\\4000-5999\\05187.jpg\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              14.59443,
+                                                              47.51761,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#9821",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e \u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e אלפים\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 07-08-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 630\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4052043578422096/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4052043578422096/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027D:\\LocalG\\Sfirat_Yeelim\\Photos\\4000-5999\\05187.jpg\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              14.59443,
+                                                              47.51788,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#9822",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e \u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e אלפים\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 07-08-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 631\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4052043578422096/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4052043578422096/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027D:\\LocalG\\Sfirat_Yeelim\\Photos\\4000-5999\\05187.jpg\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              14.59443,
+                                                              47.51815,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#9823",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e \u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e אלפים\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 07-08-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 632\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4052043578422096/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4052043578422096/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027D:\\LocalG\\Sfirat_Yeelim\\Photos\\4000-5999\\05187.jpg\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              14.59443,
+                                                              47.51842,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
                                             "Name":  "#9853",
                                             "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e ניב שגיא\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e AV1\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 22-07-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 5048\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4036909649935489/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4036909649935489/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1OIiKwAVLOtpPnn_T0G--5r333v8xkVqr\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
                                             "tessellate":  -1,
@@ -418,6 +616,60 @@
                                           "coordinates":  [
                                                               43.0224,
                                                               42.91613,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#9915",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e עינת שובל\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e פאס אלא-קול\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 12-08-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 5237\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4057799664513154/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4057799664513154/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=18kZfRVoRC2dSbkzsnpZF0TOotwdmQVIP\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              78.54537,
+                                                              42.32419,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#9916",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e אביחי שובל\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e פאס אלא-קול\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 12-08-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 637\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4057799664513154/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4057799664513154/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=18kZfRVoRC2dSbkzsnpZF0TOotwdmQVIP\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              78.54537,
+                                                              42.32446,
+                                                              0.0
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "Name":  "#9920",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e נעמה בהרב\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e תאילנד\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 19-08-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 5291\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4064611553831965/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4064611553831965/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1UldU0f6L1jQHB-Z7pkUX_HBqjAM2ZjV9\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "tessellate":  -1,
+                                            "extrude":  0,
+                                            "visibility":  -1
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              100.99254,
+                                                              15.87003,
                                                               0.0
                                                           ]
                                       }
@@ -461,8 +713,8 @@
                      {
                          "type":  "Feature",
                          "properties":  {
-                                            "Name":  "#10004",
-                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e \u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e הדולומיטים הברנטיים\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 24-07-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 5067\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4038799023079885/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4038799023079885/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1ocUYhgn60brPGldtOnFGBHdFTosi2Iq9\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
+                                            "Name":  "#9940",
+                                            "description":  "\u003cdiv dir=\u0027rtl\u0027 style=\u0027font-family:Arial;\u0027\u003e\u003cb\u003eשם:\u003c/b\u003e נעמי זינגר\u003cbr/\u003e\u003cb\u003eאתר:\u003c/b\u003e Hoonah\u003cbr/\u003e\u003cb\u003eתאריך:\u003c/b\u003e 16-08-2026\u003cbr/\u003e\u003cb\u003eID:\u003c/b\u003e 5271\u003cbr/\u003e\u003cb\u003eFB:\u003c/b\u003e \u003ca href=\u0027https://www.facebook.com/groups/beshvil.yael/posts/4061169394176181/\u0027\u003ehttps://www.facebook.com/groups/beshvil.yael/posts/4061169394176181/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cimg src=\u0027https://drive.google.com/uc?export=view\u0026amp;id=1Ryvx3LL6x0JsdWZT3vUqe8KvY1B4vBcX\u0027 width=\u0027450\u0027/\u003e\u003cbr/\u003e\u003c/div\u003e",
                                             "tessellate":  -1,
                                             "extrude":  0,
                                             "visibility":  -1
@@ -470,8 +722,8 @@
                          "geometry":  {
                                           "type":  "Point",
                                           "coordinates":  [
-                                                              10.88218,
-                                                              46.17765,
+                                                              -135.43969,
+                                                              58.10778,
                                                               0.0
                                                           ]
                                       }
